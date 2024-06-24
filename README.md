@@ -5,15 +5,21 @@ WELCOME TO MY MACHINE LEARNING PROJECT
 Load and Prepare the Dataset:
 
 1.Load the dataset using pandas.
+
 2.Prepare features for model training.
+
 3. Train the Model:
 
 4.Train a linear regression model using the prepared features and target variable.
+
 5.Build the GUI:
 
 6.Create a Tkinter window.
+
 7.Add labels and entry fields for user inputs.
+
 8.Add buttons for predicting the price and displaying the dataset.
+
 9.Display the predicted price in a message box.
 
 
