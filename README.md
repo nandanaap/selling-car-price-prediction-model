@@ -33,7 +33,8 @@
       * ttk: Provides themed widgets that offer a more modern look and feel compared to the standard Tkinter widgets.
 
 
-
+>[!NOTE]
+>Download the dataset <cardata.csv> and code <carprice.py> in the same folder.
 
   
 * Load and Prepare Data: Load the dataset, drop unnecessary columns, encode categorical features, and prepare the final set of features.
